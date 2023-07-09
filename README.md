@@ -72,3 +72,11 @@ You can register custom marks in your pytest.ini file like this:
 **Pytest html report:**
 
 pytest-html is a plugin for pytest that generates a HTML report for test results.
+
+
+------------
+
+
+The following link will guide you through the process of installing Selenium in the Python framework 
+
+https://www.youtube.com/watch?v=Q2VRKbEH5Js
